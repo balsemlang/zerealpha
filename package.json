@@ -1,0 +1,23 @@
+{
+  "name": "@balsemlang/zerealpha",
+  "version": "1.1.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zerealpha": "^1.1.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balsemlang/zoroalpha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/balsemlang/zoroalpha/issues"
+  },
+  "homepage": "https://github.com/balsemlang/zoroalpha#readme",
+  "description": ""
+}
